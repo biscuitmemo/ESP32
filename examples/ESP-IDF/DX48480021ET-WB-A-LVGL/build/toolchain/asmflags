@@ -1,0 +1,6 @@
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-mdisable-hardware-atomics
+"-specs=D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build/specs/picolibc.specs"

@@ -1,0 +1,1 @@
+warning: the value '0x40' is invalid for SOC_CPU_WATCHPOINT_MAX_REGION_SIZE (defined at D:/wbj/Soft/ESP-IDF_V_5.3/Espressif/frameworks/esp-idf-v5.3.1\./components/soc/esp32s3/include/soc/Kconfig.soc_caps.in:402), which has type int -- assignment ignored

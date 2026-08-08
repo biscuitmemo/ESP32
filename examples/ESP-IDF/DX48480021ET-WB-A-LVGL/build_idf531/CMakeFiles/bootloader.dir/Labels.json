@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build_idf531/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

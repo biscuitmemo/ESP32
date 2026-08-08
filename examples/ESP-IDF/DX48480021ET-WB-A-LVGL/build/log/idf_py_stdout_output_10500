@@ -1,0 +1,10 @@
+[1/1628] No download step for 'bootloader'
+[2/1628] No update step for 'bootloader'
+[3/1628] No patch step for 'bootloader'
+[4/1628] Generating D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build/esp-idf/esp_system/ld/memory.ld linker script...
+[5/1628] Performing configure step for 'bootloader'
+FAILED: bootloader-prefix/src/bootloader-stamp/bootloader-configure D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure 
+cmd.exe /C "cd /D D:\wbj\AI-Project\ESP32-S3-view\ESP32\examples\ESP-IDF\DX48480021ET-WB-A-LVGL\build\bootloader && C:\Users\31622\.espressif\tools\cmake\3.24.0\bin\cmake.exe -DSDKCONFIG=D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/sdkconfig -DIDF_PATH=D:/wbj/Soft/ESP-IDF_V_5.3/Espressif/frameworks/esp-idf-v5.3.1 -DIDF_TARGET=esp32s3 -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:/Users/31622/.espressif/python_env/idf5.3_py3.14_env/Scripts/python.exe -DEXTRA_COMPONENT_DIRS=D:/wbj/Soft/ESP-IDF_V_5.3/Espressif/frameworks/esp-idf-v5.3.1/components/bootloader -DPROJECT_SOURCE_DIR=D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL -DIGNORE_EXTRA_COMPONENT= -GNinja D:/wbj/Soft/ESP-IDF_V_5.3/Espressif/frameworks/esp-idf-v5.3.1/components/bootloader/subproject && C:\Users\31622\.espressif\tools\cmake\3.24.0\bin\cmake.exe -E touch D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure"
+CMake Error: The source "D:/wbj/Soft/ESP-IDF_V_5.3/Espressif/frameworks/esp-idf-v5.3.1/components/bootloader/subproject/CMakeLists.txt" does not match the source "D:/esp/v6.0.2/esp-idf/components/bootloader/subproject/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.
+[6/1628] Generating D:/wbj/AI-Project/ESP32-S3-view/ESP32/examples/ESP-IDF/DX48480021ET-WB-A-LVGL/build/esp-idf/esp_system/ld/sections.ld.in linker script...
+ninja: build stopped: subcommand failed.

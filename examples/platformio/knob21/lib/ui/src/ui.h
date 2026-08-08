@@ -26,6 +26,12 @@ void ui_event_Button1(lv_event_t * e);
 extern lv_obj_t * ui_Button1;
 void ui_event_Button2(lv_event_t * e);
 extern lv_obj_t * ui_Button2;
+extern lv_obj_t * ui_LabelHomeTitle;
+extern lv_obj_t * ui_LabelHomeCurrent;
+extern lv_obj_t * ui_LabelHomeSet;
+extern lv_obj_t * ui_LabelHomeMode;
+extern lv_obj_t * ui_LabelHomeHint;
+extern lv_obj_t * ui_LabelHomeAction;
 // CUSTOM VARIABLES
 
 // SCREEN: ui_time
@@ -75,6 +81,8 @@ LV_IMG_DECLARE(ui_img_1620963198);    // assets/time-png.png
 
 void   LVGL_knob_event(void *event);
 void   LVGL_button_event(void *event);
+void thermostat_refresh_home(void);
+void thermostat_refresh_working(void);
 // UI INIT
 void ui_init(void);
 
